@@ -20,10 +20,12 @@ These diagrams can be used to:
 Illustrate system design concepts for interviews, discussions, and documentation.
 Serve as templates for new projects requiring standardized architecture.
 Guide the planning and implementation of complex systems by providing clear visual references.
+
 🛠️ How to Use
 Explore Diagrams: Browse through the different types of diagrams to find ones relevant to your use case.
 Customize: Modify the diagrams to fit your specific project or interview needs.
 Contribute: Feel free to add new diagrams or improve existing ones to enhance this resource!
+
 📝 Contributing
 If you have diagrams that would enrich this collection or see improvements, contributions are welcome! Please make sure to follow the template and naming conventions in the repository for consistency.
 
