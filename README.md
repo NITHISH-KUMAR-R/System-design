@@ -19,7 +19,7 @@ Explore a range of diagrams, including:
 - **Sequence Diagrams**
 - **Deployment Diagrams**
 
-[ACID VS BASE](https://example.com](https://aws.amazon.com/compare/the-difference-between-acid-and-base-database/)
+[ACID VS BASE](https://aws.amazon.com/compare/the-difference-between-acid-and-base-database/)
 ###Design Pattern Article
 
 For a detailed explanation, check out my article on the Design Patterns:  
