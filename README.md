@@ -19,5 +19,5 @@ Explore a range of diagrams, including:
 - **Sequence Diagrams**
 - **Deployment Diagrams**
 
-[ACID VS BASE]([https://example.com](https://aws.amazon.com/compare/the-difference-between-acid-and-base-database/))
+Factory Design Pattern Article](https://example.com](https://aws.amazon.com/compare/the-difference-between-acid-and-base-database/)
 Feel free to browse, download, and use these diagrams in your projects or study sessions.
