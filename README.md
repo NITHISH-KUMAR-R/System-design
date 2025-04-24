@@ -19,6 +19,9 @@ Explore a range of diagrams, including:
 - **Sequence Diagrams**
 - **Deployment Diagrams**
 
+ ## HIGH LEVEL DESIGN COCEPTS
+[CHECKSUMS](https://youtu.be/toYnC5PoM08?si=AxN5j3j28-khgFwJ) 
+
 ## HIGH LEVEL DESIGN DATABSE
 [ACID VS BASE](https://aws.amazon.com/compare/the-difference-between-acid-and-base-database/)
 
